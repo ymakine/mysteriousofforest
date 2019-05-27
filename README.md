@@ -1,2 +1,0 @@
-# mysteriousofforest
-sunucu
